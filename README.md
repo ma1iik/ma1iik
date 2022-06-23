@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=105
+
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2389062
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2468508
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809
+https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090
+
 <!--
 **ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![42](https://badgen.net/badge/Born2Code/misrailo/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Counter](https://komarev.com/ghpvc/?username=misrailo&color=blue)
-
-[![misrailo's 42 stats](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=105)](https://github.com/JaeSeoKim/badge42)
+[![misrailo's 42 stats](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
 
 <!--
 **ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

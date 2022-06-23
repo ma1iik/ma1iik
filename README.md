@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=105
+![42](https://badgen.net/badge/Born2Code/misrailo/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
+![Counter](https://komarev.com/ghpvc/?username=misrailo&color=blue)
 
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2389062
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2468508
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809
-https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090
+[![misrailo's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![misrailo's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1gd28yu016709mjbxjnehd0?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+
 
 <!--
 **ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

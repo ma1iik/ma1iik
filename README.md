@@ -2,11 +2,13 @@
 
 [![misrailo's 42 stats](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
 
-[![misrailo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2389062)](https://github.com/JaeSeoKim/badge42)
-[![misrailo's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2468508)](https://github.com/JaeSeoKim/badge42)
-[![misrailo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458)](https://github.com/JaeSeoKim/badge42)
-[![misrailo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809)](https://github.com/JaeSeoKim/badge42)
-[![misrailo's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090)](https://github.com/JaeSeoKim/badge42)
+|Projects|Grades|
+|---	|---	|
+|Libft|[![misrailo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2389062)](https://github.com/JaeSeoKim/badge42)|
+|ft_Printf|[![misrailo's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2468508)](https://github.com/JaeSeoKim/badge42)|
+|Get Next Line|[![misrailo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458)](https://github.com/JaeSeoKim/badge42)|
+|Born2Beroot|[![misrailo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809)](https://github.com/JaeSeoKim/badge42)|
+|So Long|[![misrailo's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090)](https://github.com/JaeSeoKim/badge42)|
 
 <!--
 **ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -12,6 +12,11 @@
 |Get Next Line|[![misrailo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458)](https://github.com/JaeSeoKim/badge42)|
 |Born2Beroot|[![misrailo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809)](https://github.com/JaeSeoKim/badge42)|
 |So Long|[![misrailo's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090)](https://github.com/JaeSeoKim/badge42)|
+|Push_Swap|[![misrailo's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591086)](https://github.com/JaeSeoKim/badge42)|
+|pipex|[![misrailo's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2576572)](https://github.com/JaeSeoKim/badge42)|
+|Philosophers|[![misrailo's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2794560)](https://github.com/JaeSeoKim/badge42)|
+|minishell|[![misrailo's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2913634)](https://github.com/JaeSeoKim/badge42)|
+|NetPractice|[![misrailo's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2923607)](https://github.com/JaeSeoKim/badge42)|
 
 <!--
 **ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

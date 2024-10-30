@@ -1,14 +1,14 @@
 ## Hi there, welcome to my GitHub page! 👋
 
-My name is Malik, and here's a little about me:
+**My name is Malik, and here's a little about me:**
 
-**👨‍💻 Software Engineer** - [42 graduate](https://42.fr/en/homepage/) with a strong foundation in programming and problem-solving.
+**👨‍💻 Software Engineer** **- [42 graduate](https://42.fr/en/homepage/) with a strong foundation in programming and problem-solving.**
 
-**🔧 Experienced in C/C++** - Focused on low-level programming and efficient solutions.
+**🔧 Experienced in C/C++** **- Focused on low-level programming and efficient solutions.**
 
-**🌐 Web Development** - Skilled in building engaging web applications, with a focus on JavaScript, React, Node.js, and Webpack.
+**🌐 Web Development** **- Skilled in building engaging web applications, with a focus on JavaScript, React, Node.js, and Webpack.**
 
-**💼 LinkedIn**: [https://www.linkedin.com/in/ma1ik/](https://www.linkedin.com/in/ma1ik/)
+**💼 LinkedIn**: **[https://www.linkedin.com/in/ma1ik/](https://www.linkedin.com/in/ma1ik/)**
 
 ---
 

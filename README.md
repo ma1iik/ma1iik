@@ -33,3 +33,5 @@
 ---
 
 Thanks for stopping by! Feel free to check out my projects or connect!
+
+![LeetCode Stats](https://leetcode-badge-sage.vercel.app/badge/ma1iik?theme=dark&bgColor=282828)

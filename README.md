@@ -1,34 +1,32 @@
-### Hi there 👋
+## Hi there, welcome to my GitHub page! 👋
 
-![42](https://badgen.net/badge/Born2Code/misrailo/blue?cache=86400&icon=https://meta.intra.42.fr/assets/42_logo-7dfc9110a5319a308863b96bda33cea995046d1731cebb735e41b16255106c12.svg)
-![Counter](https://komarev.com/ghpvc/?username=misrailo&color=blue)
+My name is Malik, and here’s a little about me:
 
-[![misrailo's 42 stats](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/stats?cursusId=21&coalitionId=122)](https://github.com/JaeSeoKim/badge42)
+👨‍💻 **Software Engineer** - A [42 graduate](https://42.fr/en/homepage/) with a strong foundation in programming and problem-solving.
 
-|Projects|Grades|
-|---	|---	|
-|Libft|[![misrailo's 42 Libft Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2389062)](https://github.com/JaeSeoKim/badge42)|
-|ft_Printf|[![misrailo's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2468508)](https://github.com/JaeSeoKim/badge42)|
-|Get Next Line|[![misrailo's 42 get_next_line Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2488458)](https://github.com/JaeSeoKim/badge42)|
-|Born2Beroot|[![misrailo's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2507809)](https://github.com/JaeSeoKim/badge42)|
-|So Long|[![misrailo's 42 so_long Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591090)](https://github.com/JaeSeoKim/badge42)|
-|Push_Swap|[![misrailo's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2591086)](https://github.com/JaeSeoKim/badge42)|
-|pipex|[![misrailo's 42 pipex Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2576572)](https://github.com/JaeSeoKim/badge42)|
-|Philosophers|[![misrailo's 42 Philosophers Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2794560)](https://github.com/JaeSeoKim/badge42)|
-|minishell|[![misrailo's 42 minishell Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2913634)](https://github.com/JaeSeoKim/badge42)|
-|NetPractice|[![misrailo's 42 NetPractice Score](https://badge42.vercel.app/api/v2/cl4r4qvds002509miya23lhci/project/2923607)](https://github.com/JaeSeoKim/badge42)|
+🔧 **Experienced in C/C++** - Focused on low-level programming and efficient solutions.
 
-<!--
-**ma1iik/ma1iik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Web Development** - Skilled in building engaging and functional web applications, with a focus on JavaScript, React, Node.js, and Webpack.
 
-Here are some ideas to get you started:
+💼 [**LinkedIn**](https://www.linkedin.com/in/ma1ik/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ My Current Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+Thanks for stopping by! Feel free to check out my projects or connect!

@@ -2,10 +2,14 @@
 
 My name is Malik, and here's a little about me:
 
-- 👨‍💻 **Software Engineer** - [42 graduate](https://42.fr/en/homepage/) with a strong foundation in programming and problem-solving.
-- 🔧 **Experienced in C/C++** - Focused on low-level programming and efficient solutions.
-- 🌐 **Web Development** - Skilled in building engaging web applications, with focus on JavaScript, React, Node.js, and Webpack.
-- 💼 **LinkedIn**: [https://www.linkedin.com/in/ma1ik/](https://www.linkedin.com/in/ma1ik/)
+**👨‍💻 Software Engineer** - 42 graduate with a strong foundation in programming and problem-solving.
+
+**🔧 Experienced in C/C++** - Focused on low-level programming and efficient solutions.
+
+**🌐 Web Development** - Skilled in building engaging web applications, with focus on JavaScript, React, Node.js, and Webpack.
+
+**💼 LinkedIn**: [https://www.linkedin.com/in/ma1ik/](https://www.linkedin.com/in/ma1ik/)
+
 
 ---
 

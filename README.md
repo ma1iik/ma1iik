@@ -33,6 +33,3 @@
 ---
 
 Thanks for stopping by! Feel free to check out my projects or connect!
-
-
-![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/ma1iik/badge)

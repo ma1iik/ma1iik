@@ -8,7 +8,7 @@
 
 **🌐 Web Development** **- Skilled in building engaging web applications, with a focus on JavaScript, React, Node.js, and Webpack.**
 
-**💼 LinkedIn**: **[https://www.linkedin.com/in/ma1ik/](https://www.linkedin.com/in/ma1ik/)**
+**💼 LinkedIn**: **[Malik Israilov](https://www.linkedin.com/in/ma1ik/)**
 
 ---
 

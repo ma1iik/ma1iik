@@ -31,5 +31,3 @@
 </p>
 
 ---
-
-Thanks for stopping by! Feel free to check out my projects or connect!

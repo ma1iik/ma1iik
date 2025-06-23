@@ -12,10 +12,6 @@
 
 ---
 
-![](https://leetcard.jacoblin.cool/Ma1iik?ext=activity)
-
----
-
 ### ⚙️ Current Stack:
 <p align="left" style="font-size: smaller;">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
